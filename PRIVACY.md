@@ -1,6 +1,6 @@
 # Política de Privacidad - tuMeteo v3
 
-Última actualización: 9 de febrero de 2025
+Última actualización: 20 de febrero de 2025
 
 ## 1. Introducción
 
@@ -36,8 +36,8 @@ La información recopilada se utiliza exclusivamente para:
 ### 4.2. Servicios de Terceros
 Utilizamos los siguientes servicios de terceros:
 - **AEMET**: Para obtener datos meteorológicos oficiales
+- **Meteologix**: Para obtener datos meteorológicos oficiales
 - **Google Play Services**: Para funcionalidades básicas de la aplicación
-- **Firebase Analytics**: Para análisis básico del funcionamiento de la aplicación
 
 ## 5. Compartición de Datos
 
@@ -70,8 +70,8 @@ La aplicación requiere los siguientes permisos:
 ## 10. Contacto
 
 Si tiene preguntas sobre esta política de privacidad, puede contactarnos en:
-- Email: [tu-email@dominio.com]
-- GitHub: [tu-usuario-github]
+- Email: [tempericolabs@gmail.com]
+- GitHub: [TempericoLabs]
 
 ## 11. Consentimiento
 
